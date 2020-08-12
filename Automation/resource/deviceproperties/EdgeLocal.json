@@ -1,0 +1,11 @@
+{
+    "execution":"local",
+    "platform":"win10",
+    "device":"edge",
+    "url":"https://www.airasia.com/en/gb",
+    "web_remote_url":"",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+    	
+    ]
+}

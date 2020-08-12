@@ -1,0 +1,18 @@
+{
+    "execution":"remote",
+    "platform":"",
+    "device":"chrome",
+    "url":"https://www.airasia.com/en/gb",
+    "web_remote_url":"http://35.234.36.44:4444/wd/hub/",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+    	{
+      		"capability_name":"enableVNC",
+      		"capability_value":true
+      	},
+      	{
+      		"capability_name":"enableVideo",
+      		"capability_value":false
+      	}
+    ]
+}

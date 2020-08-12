@@ -1,0 +1,26 @@
+{
+	"execution":"local",
+    "platform":"Android",
+    "device":"mobileandroid",
+    "url":"",
+    "web_remote_url":"",
+    "mobile_remote_url":"http://0.0.0.0:4723/wd/hub",
+    "browser_desired_capabilities":[
+    	{
+      		"capability_name":"platformVersion",
+      		"capability_value":"9"
+      	},
+      	{
+      		"capability_name":"deviceName",
+      		"capability_value":"DGalaxy"
+      	},
+      	{
+      		"capability_name":"appPackage",
+      		"capability_value":"com.airasia.mobile"
+      	},
+      	{
+      		"capability_name":"appActivity",
+      		"capability_value":"com.airasia.mobile.MainActivity"
+      	}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "execution":"local",
+    "platform":"win10",
+    "device":"ie",
+    "url":"http://facebook.com",
+    "web_remote_url":"",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+    	
+    ]
+}

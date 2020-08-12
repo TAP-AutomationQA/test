@@ -1,0 +1,11 @@
+{
+    "execution":"local_Headless",
+    "platform":"win10",
+    "device":"chrome",
+    "url":"http://qaclickacademy.com/practice.php",
+    "web_remote_url":"",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+  
+    ]
+}

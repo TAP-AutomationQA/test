@@ -1,0 +1,11 @@
+{
+    "execution":"local",
+    "platform":"win10",
+    "device":"firefox",
+    "url":"https://stgselect.airasia.com/en/gb",
+    "web_remote_url":"",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+   
+    ]
+}

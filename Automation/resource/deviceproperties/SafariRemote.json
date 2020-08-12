@@ -1,0 +1,14 @@
+{
+    "execution":"remote",
+    "platform":"mac",
+    "device":"safari",
+    "url":"https://www.airasia.com/en/gb",
+    "web_remote_url":"https://cloud.seetest.io/wd/hub",
+    "mobile_remote_url":"",
+    "browser_desired_capabilities":[
+    	{
+      		"capability_name":"accessKey",
+      		"capability_value":"eyJ4cC51Ijo4NjExNDEsInhwLnAiOjg2MTE0MCwieHAubSI6Ik1UVXpNalU0TXpVeU1ETTVNUSIsImFsZyI6IkhTMjU2In0.eyJleHAiOjE4NDg2MzM2NjgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vgMy-5ca215J1KUGZY6Z87G-UjjrjrGVO4JYI0zQQS8"
+      	}
+    ]
+}

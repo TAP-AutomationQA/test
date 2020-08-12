@@ -1,0 +1,26 @@
+{
+    "google_reporting_settings":{
+        "turn_on_gmail_drive_output_storing":true,
+        "google_drive_parent_folder_id":"1yX15_wnK_qahAgOjHlyg-Zyho91f7e3n"
+    },
+    "email_reporting_settings":{
+        "turn_on_email_sending":true,
+        "server":"smtp.gmail.com",
+        "email_from":"abilarjayson17@gmail.com",
+        "email_from_password":"DetonAbilar_15",
+        "email_to":["jabilar@indracompany.com","abilarjayson17@gmail.com"],
+        "subject":"Indra automation Report"
+    },
+    "slack_message_bot_in_channels":{
+    	"turn_on_slack_sending":true,
+    	"slack_webhook_url":"https://hooks.slack.com/services/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"
+    },
+    "trello_comments_bot_in_cards":{
+    	"turn_on_trello_sending":true,
+    	"trello_user_key":"621af65bc04aa7bb91dafea36942a6aa",
+    	"trello_user_token":"935b2093e95d0a0a8050ea3ee694d3ef6507c9cf624ebdaec847f33b4fc2e65d",
+    	"trello_card_id":"Zpqs9fGJ"
+    }
+
+
+}

@@ -1,0 +1,22 @@
+{
+	"execution":"local",
+    "platform":"android",
+    "device":"mobilechrome",
+    "url":"http://qaclickacademy.com/practice.php",
+    "web_remote_url":"",
+    "mobile_remote_url":"http://0.0.0.0:4723/wd/hub",
+    "browser_desired_capabilities":[
+    	{
+      		"capability_name":"platformVersion",
+      		"capability_value":"9"
+      	},
+      	{
+      		"capability_name":"deviceName",
+      		"capability_value":"DGalaxy"
+      	},
+      	{
+      		"capability_name":"platformName",
+      		"capability_value":"Android"
+      	}
+    ]
+}
